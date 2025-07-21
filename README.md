@@ -61,4 +61,4 @@ MIT License
 
 ## Contact
 
-For questions or improvements, open an issue or
+For questions or improvements, open an issue or pull request on this repository
